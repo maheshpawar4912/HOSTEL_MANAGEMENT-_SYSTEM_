@@ -1,0 +1,60 @@
+{
+    "students": {
+        "34": {
+            "name": "MAHESH TANAJI PAWAR",
+            "contact": "9699683374",
+            "email": "PAWARMAHESH7695@GMAIL.COM",
+            "course": "ENTC",
+            "room": null,
+            "fees_paid": 0.0,
+            "fees_due": 0.0,
+            "joined_on": "2026-05-24"
+        },
+        "1": {
+            "name": "mahesh",
+            "contact": "12",
+            "email": "12",
+            "course": "222",
+            "room": null,
+            "fees_paid": 1500.0,
+            "fees_due": 0.0,
+            "joined_on": "2026-05-24"
+        }
+    },
+    "rooms": {
+        "21": {
+            "capacity": 2,
+            "occupant": null,
+            "room_type": "Single"
+        },
+        "1": {
+            "capacity": 1,
+            "occupant": null,
+            "room_type": "Single"
+        }
+    },
+    "complaints": {
+        "1": {
+            "student_roll": "1",
+            "subject": "sleeping",
+            "message": "fgfgf",
+            "status": "Open",
+            "date": "2026-05-24"
+        }
+    },
+    "visitors": {},
+    "attendance": {},
+    "payments": {
+        "1": {
+            "student_roll": "1",
+            "amount": 1500.0,
+            "date": "2026-05-24T22:26:48.524654"
+        }
+    },
+    "settings": {
+        "next_complaint_id": 2,
+        "next_visitor_id": 2,
+        "next_payment_id": 2,
+        "monthly_fee": 1500.0
+    }
+}
